@@ -7,6 +7,14 @@ clinical, lifestyle, and cognitive assessment data.
 2,149 patient records, 33 features, sourced from a public clinical dataset
 (El Kharoua, 2024, Kaggle). Target: binary Alzheimer's diagnosis.
 
+Dataset: [Alzheimer's Disease Dataset](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)
+by Rabie El Kharoua, available on Kaggle under CC BY 4.0.
+
+To reproduce this project:
+1. Download the dataset from the link above
+2. Place `alzheimers_disease_data.csv` in the same directory as the notebook
+3. Run all cells top to bottom
+   
 ## Model
 Random Forest Classifier (scikit-learn), 100 estimators, stratified 70/30
 train/test split.
