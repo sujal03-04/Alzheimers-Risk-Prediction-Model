@@ -34,7 +34,7 @@ These align with predictors identified as significant in published Alzheimer's
 literature — the model independently converged on clinically validated markers.
 
 ## Live demo
-Deployed on Hugging Face Spaces: [link to your HF space here](https://huggingface.co/spaces/Suj1234/alzheimersmodel1234)
+Deployed on Hugging Face Spaces: [Alzheimer's Prediction Model](https://huggingface.co/spaces/Suj1234/alzheimersmodel1234)
 
 ## Tools
 Python · scikit-learn · Pandas · NumPy · joblib
